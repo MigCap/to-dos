@@ -12,14 +12,9 @@ body {
 }
 
 #root {
+  /* background-color: darkslategray; */
   background-color: darkslategray;
   min-height: 100vh;
-}
-
-.container {
-  width: 500px;
-  margin: auto;
-  overflow: hidden;
 }
 
 .header h1 {
